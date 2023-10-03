@@ -43,7 +43,7 @@ Logic gates are the basic building blocks of any digital system. It is an electr
 ![image](https://user-images.githubusercontent.com/71547910/235332254-db13d222-1246-4b57-bbb2-3ab2287ccaa8.png)
 
 ## PROGRAM:
-```
+```c
 int bs0 = 0;         // variable for reading the pushbutton status
 int bs1 = 0;
 int bs2 = 0;         // variable for reading the pushbutton status
