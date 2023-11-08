@@ -1,11 +1,9 @@
-# Logical Operation
+# EX-01 - Logical Operation
 
 ## AIM:
-
 To Perform logical operation using Arduino UNO Controller.
 
 ## Software required:
-
 Arduino IDE </br>
 Proteous 
 
@@ -29,17 +27,11 @@ Step13:Click start button and check the output</br>
 Logic gates are the basic building blocks of any digital system. It is an electronic circuit having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as AND gate, OR gate, NOT gate etc.
 
 ![image](https://user-images.githubusercontent.com/71547910/235332137-a4a37a0e-ddfb-4ca2-82e5-b1565d969413.png)
-
 ![image](https://user-images.githubusercontent.com/71547910/235332175-5d9df189-c964-45d1-ad24-e0afe6ff7eea.png)
-
 ![image](https://user-images.githubusercontent.com/71547910/235332188-bff0b03e-1b6a-4de6-993b-20497c247f17.png)
-
 ![image](https://user-images.githubusercontent.com/71547910/235332203-6bc16144-762e-40e8-ad6d-f76833a7fca4.png)
-
 ![image](https://user-images.githubusercontent.com/71547910/235332217-f598b1fb-78b6-497e-9e0e-ee2bb4dbeb71.png)
-
 ![image](https://user-images.githubusercontent.com/71547910/235332241-dd9ce66a-0e77-44d9-a699-09bfbd1968ea.png)
-
 ![image](https://user-images.githubusercontent.com/71547910/235332254-db13d222-1246-4b57-bbb2-3ab2287ccaa8.png)
 
 ## PROGRAM:
@@ -89,13 +81,10 @@ void loop() {
 }
 ```
 ## CIRCUIT DIAGRAM:
-
 ![image](https://github.com/gokul-sureshkumar/Logical-operation/assets/121148715/1308fac0-2b27-4d77-88b5-ebdd35d526cb)
 
 ## OUTPUT:
-
 ![image](https://github.com/gokul-sureshkumar/Logical-operation/assets/121148715/658b4108-972b-4ad7-a256-47cf24ceedb6)
 
 ## RESULT:
-
 Thus the logical operation was performed by Arduino UNO controller
